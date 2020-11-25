@@ -1,4 +1,7 @@
-package me.guillaumecle;
+package me.guillaumecle.scrum;
+
+import me.guillaumecle.Goal;
+import me.guillaumecle.Work;
 
 public class Sprint {
 

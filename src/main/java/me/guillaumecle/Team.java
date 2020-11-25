@@ -1,5 +1,5 @@
 package me.guillaumecle;
 
-interface Team {
+public interface Team {
 
 }

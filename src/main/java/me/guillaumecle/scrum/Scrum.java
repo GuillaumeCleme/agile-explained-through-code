@@ -1,6 +1,17 @@
-package me.guillaumecle;
+package me.guillaumecle.scrum;
 
 import java.util.List;
+
+import me.guillaumecle.Adjustments;
+import me.guillaumecle.Agile;
+import me.guillaumecle.Goal;
+import me.guillaumecle.Priority;
+import me.guillaumecle.Progress;
+import me.guillaumecle.Reflection;
+import me.guillaumecle.Release;
+import me.guillaumecle.Requirement;
+import me.guillaumecle.Team;
+import me.guillaumecle.Work;
 
 public class Scrum implements Agile {
 

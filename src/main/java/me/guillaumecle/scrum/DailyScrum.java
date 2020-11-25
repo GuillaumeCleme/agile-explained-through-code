@@ -1,4 +1,6 @@
-package me.guillaumecle;
+package me.guillaumecle.scrum;
+
+import me.guillaumecle.Team;
 
 public class DailyScrum {
 

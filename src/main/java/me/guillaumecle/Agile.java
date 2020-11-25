@@ -2,7 +2,7 @@ package me.guillaumecle;
 
 import java.util.List;
 
-interface Agile {
+public interface Agile {
     
     public void collaborate(Team team);
 
