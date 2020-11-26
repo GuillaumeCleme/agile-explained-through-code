@@ -26,7 +26,8 @@ public class Scrum implements Agile {
         DailyScrum scrum = new DailyScrum(scrumTeam);
         scrum.host();
 
-        Sprint sprint = createSprint(new Goal("To deliver value!"), getWork(scrumTeam.getProductOwner().getRequirements()));
+        Sprint sprint = createSprint(new Goal("To deliver value!"), 
+                            getWork(scrumTeam.getProductOwner().getRequirements()));
         sprint.plan();
         sprint.workOn();
     }
